@@ -15,7 +15,7 @@ collections:
     slug: "{{slug}}" # 标题.md
     editor:
     preview: false
-    fields: # 每个文档的字段，通常在 front matter 中
+    fields: # 每个文档的字段，通常在front matter中
       - { label: "布局", name: "layout", widget: "hidden", default: "blog" }
       - { label: "标题", name: "title", widget: "string" }
       - { label: "发布日期", name: "date", widget: "datetime" }
