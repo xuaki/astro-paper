@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: github.com/xuaki/astro-paper.git
+  repo: astro-paper/repo
   branch: main
   site_domain: https://www.taruol.cn
   base_url: https://www.taruol.cn
